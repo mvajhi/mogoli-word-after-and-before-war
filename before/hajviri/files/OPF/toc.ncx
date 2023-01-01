@@ -1,0 +1,1542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:2cc19511-0461-40d7-bb96-da81792f5a37" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text> هجویری</text>
+  </docTitle>
+  <docAuthor>
+    <text>هجویری</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navid1" playOrder="1">
+      <navLabel>
+        <text>معرفی گنجور</text>
+      </navLabel>
+      <content src="promo.xhtml" />
+    </navPoint>
+    <navPoint id="navid2" playOrder="2">
+      <navLabel>
+        <text>دربارهٔ هجویری</text>
+      </navLabel>
+      <content src="bio.xhtml" />
+    </navPoint>
+    <navPoint id="navid3" playOrder="3">
+      <navLabel>
+        <text>هجویری</text>
+      </navLabel>
+      <content src="cat1750.xhtml" />
+      <navPoint id="navid3x1" playOrder="4">
+        <navLabel>
+          <text>کشف المحجوب</text>
+        </navLabel>
+        <content src="cat1751.xhtml" />
+        <navPoint id="navid3x1x1" playOrder="5">
+          <navLabel>
+            <text>مقدمات</text>
+          </navLabel>
+          <content src="cat1752.xhtml" />
+          <navPoint id="navid3x1x1x1" playOrder="6">
+            <navLabel>
+              <text>بخش  ۱ - بسْمِ اللّه الرّحمنِ الرّحیم : اَلْحَمدُللّهِ الّذی کَشَفَ لِأولیائِه بَواطِنَ مَ ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49784" />
+          </navPoint>
+          <navPoint id="navid3x1x1x2" playOrder="7">
+            <navLabel>
+              <text>بخش  ۲ - فصل : آن‌چه به ابتدای کتاب نام خود اثبات کردم، مراد اندر ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49785" />
+          </navPoint>
+          <navPoint id="navid3x1x1x3" playOrder="8">
+            <navLabel>
+              <text>بخش  ۳ - فصل : و آن‌چه گفتم که: «طریق استخاره سپردم»، مراد از آن  ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49786" />
+          </navPoint>
+          <navPoint id="navid3x1x1x4" playOrder="9">
+            <navLabel>
+              <text>بخش  ۴ - فصل : و آن‌چه گفتم که: «اغراضی که به نفس بازمی‌گشت از دل ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49787" />
+          </navPoint>
+          <navPoint id="navid3x1x1x5" playOrder="10">
+            <navLabel>
+              <text>بخش  ۵ - فصل : و آن‌چه گفتم که: «به حکم استدعای تو قیام کردم و بر ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49788" />
+          </navPoint>
+          <navPoint id="navid3x1x1x6" playOrder="11">
+            <navLabel>
+              <text>بخش  ۶ - فصل : و آن‌چه گفتم که: «مر این کتاب را کشف المحجوب نام ک ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49789" />
+          </navPoint>
+          <navPoint id="navid3x1x1x7" playOrder="12">
+            <navLabel>
+              <text>بخش  ۷ - فصل : اما آن‌چه گفتم: «مقصودت معلوم شد و سخن اندر غرضت ا ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49790" />
+          </navPoint>
+          <navPoint id="navid3x1x1x8" playOrder="13">
+            <navLabel>
+              <text>بخش  ۸ - فصل : و آن‌چه گفتم که: «من از خداوندتعالی توفیق واستعانت ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49791" />
+          </navPoint>
+          <navPoint id="navid3x1x1x9" playOrder="14">
+            <navLabel>
+              <text>بخش  ۹ - فصل : بدان قوّاک اللّه که یافتم این عالم را محل بعضی اسر ...</text>
+            </navLabel>
+            <content src="cat1752sec1.xhtml#poem-49792" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x2" playOrder="20">
+          <navLabel>
+            <text>بابُ اثباتِ العلم</text>
+          </navLabel>
+          <content src="cat1753.xhtml" />
+          <navPoint id="navid3x1x2x1" playOrder="21">
+            <navLabel>
+              <text>بخش  ۱ - بابُ اثباتِ العلم : قوله تعالی فی صفة العلماء: «انّما یَخْشَی اللّهَ م ...</text>
+            </navLabel>
+            <content src="cat1753sec1.xhtml#poem-49793" />
+          </navPoint>
+          <navPoint id="navid3x1x2x2" playOrder="22">
+            <navLabel>
+              <text>بخش  ۲ - فصل : بدان که علم دو است: یکی علم خداوند تعالی و دیگر عل ...</text>
+            </navLabel>
+            <content src="cat1753sec1.xhtml#poem-49794" />
+          </navPoint>
+          <navPoint id="navid3x1x2x3" playOrder="23">
+            <navLabel>
+              <text>بخش  ۳ - فصل : اما علم بنده باید که در امور خداوند تعالی باشد و م ...</text>
+            </navLabel>
+            <content src="cat1753sec1.xhtml#poem-49795" />
+          </navPoint>
+          <navPoint id="navid3x1x2x4" playOrder="24">
+            <navLabel>
+              <text>بخش  ۴ - فصل : بدان که گروهی‌اند از ملاحده لعنهم اللّه که مر ایشا ...</text>
+            </navLabel>
+            <content src="cat1753sec1.xhtml#poem-49796" />
+          </navPoint>
+          <navPoint id="navid3x1x2x5" playOrder="25">
+            <navLabel>
+              <text>بخش  ۵ - فصل : محمدبن الفضل البلخی گوید، رحمةاللّه: «العُلومُ ثَل ...</text>
+            </navLabel>
+            <content src="cat1753sec1.xhtml#poem-49797" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x3" playOrder="46">
+          <navLabel>
+            <text>باب الفقر</text>
+          </navLabel>
+          <content src="cat1754.xhtml" />
+          <navPoint id="navid3x1x3x1" playOrder="47">
+            <navLabel>
+              <text>بخش  ۱ - باب الفقر : بدان که درویشی را اندر راه خداوند عزّ و جلّ مرتبتی ...</text>
+            </navLabel>
+            <content src="cat1754sec1.xhtml#poem-49798" />
+          </navPoint>
+          <navPoint id="navid3x1x3x2" playOrder="48">
+            <navLabel>
+              <text>بخش  ۲ - فصل : و خلاف کرده‌اند مشایخ این قصه رحمهم اللّه اندر فقر ...</text>
+            </navLabel>
+            <content src="cat1754sec1.xhtml#poem-49799" />
+          </navPoint>
+          <navPoint id="navid3x1x3x3" playOrder="49">
+            <navLabel>
+              <text>بخش  ۳ - فصل : و مشایخ این طریقت را، اندر این معنی، هر یکی را رمز ...</text>
+            </navLabel>
+            <content src="cat1754sec1.xhtml#poem-49800" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x4" playOrder="96">
+          <navLabel>
+            <text>باب التصوّف</text>
+          </navLabel>
+          <content src="cat1755.xhtml" />
+          <navPoint id="navid3x1x4x1" playOrder="97">
+            <navLabel>
+              <text>بخش  ۱ - باب التصوّف : قال اللّه تعالی: «وعبادُ الرّحمنِ الّذینَ یَمْشُون ...</text>
+            </navLabel>
+            <content src="cat1755sec1.xhtml#poem-49801" />
+          </navPoint>
+          <navPoint id="navid3x1x4x2" playOrder="98">
+            <navLabel>
+              <text>بخش  ۲ - فصل : ذو النون مصری رحمةاللّه علیه گوید: «الصُّوفیّ إذا  ...</text>
+            </navLabel>
+            <content src="cat1755sec1.xhtml#poem-49802" />
+          </navPoint>
+          <navPoint id="navid3x1x4x3" playOrder="99">
+            <navLabel>
+              <text>بخش  ۳ - فصل : آن‌چه گفته‌اند در معاملات:</text>
+            </navLabel>
+            <content src="cat1755sec1.xhtml#poem-49803" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x5" playOrder="196">
+          <navLabel>
+            <text>باب لُبس المرقعات</text>
+          </navLabel>
+          <content src="cat1756.xhtml" />
+          <navPoint id="navid3x1x5x1" playOrder="197">
+            <navLabel>
+              <text>بخش  ۱ - باب لُبس المرقعات : بدان که لبس مرقعه شعار متصوّفه است، و لبس مرقعات س ...</text>
+            </navLabel>
+            <content src="cat1756sec1.xhtml#poem-49804" />
+          </navPoint>
+          <navPoint id="navid3x1x5x2" playOrder="198">
+            <navLabel>
+              <text>بخش  ۲ - فصل : اما شرط مرقعات آن است که از برای خفت و فراغت سازد، ...</text>
+            </navLabel>
+            <content src="cat1756sec1.xhtml#poem-49805" />
+          </navPoint>
+          <navPoint id="navid3x1x5x3" playOrder="199">
+            <navLabel>
+              <text>بخش  ۳ - فصل : اما ترک عادت این طایفه، شرط طریق ایشان نباشد و آن‌ ...</text>
+            </navLabel>
+            <content src="cat1756sec1.xhtml#poem-49806" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x6" playOrder="396">
+          <navLabel>
+            <text>باب اختلافهم فی الفقر و الصّفوة</text>
+          </navLabel>
+          <content src="cat1757.xhtml" />
+          <navPoint id="navid3x1x6x1" playOrder="397">
+            <navLabel>
+              <text>بخش  ۱ - باب اختلافهم فی الفقر و الصّفوة : اما علمای این طریقت را اندر فقر و صفوت خلاف است. ب ...</text>
+            </navLabel>
+            <content src="cat1757sec1.xhtml#poem-49807" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x7" playOrder="794">
+          <navLabel>
+            <text>باب ذکر اهل الصّفّة</text>
+          </navLabel>
+          <content src="cat1758.xhtml" />
+          <navPoint id="navid3x1x7x1" playOrder="795">
+            <navLabel>
+              <text>بخش  ۱ - باب ذکر اهل الصّفّة : بدان که امت کثّرهم اللّه مجتمع‌اند بر آن که پیغامب ...</text>
+            </navLabel>
+            <content src="cat1758sec1.xhtml#poem-49808" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x8" playOrder="1590">
+          <navLabel>
+            <text>باب الملامة</text>
+          </navLabel>
+          <content src="cat1759.xhtml" />
+          <navPoint id="navid3x1x8x1" playOrder="1591">
+            <navLabel>
+              <text>بخش  ۱ - باب الملامة : گروهی از مشایخ، طریق ملامت سپرده‌اند، و مر ملامت ر ...</text>
+            </navLabel>
+            <content src="cat1759sec1.xhtml#poem-49809" />
+          </navPoint>
+          <navPoint id="navid3x1x8x2" playOrder="1592">
+            <navLabel>
+              <text>بخش  ۲ - فصل : بدان که مذهب ملامت را اندر این طریقت آن شیخ زمانهٔ ...</text>
+            </navLabel>
+            <content src="cat1759sec1.xhtml#poem-49810" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x9" playOrder="3183">
+          <navLabel>
+            <text>بابٌ فی ذکر أئمَّتِهم من الصَّحابَةِ و التّابعینَ و مُتابِعیهم، رضی اللّه عنهم أجمعین</text>
+          </navLabel>
+          <content src="cat1760.xhtml" />
+          <navPoint id="navid3x1x9x1" playOrder="3184">
+            <navLabel>
+              <text>بخش  ۱ - بابٌ فی ذکر أئمَّتِهم من الصَّحابَةِ و التّابعینَ و مُتابِعیهم، رضی اللّه عنهم أجمعین</text>
+            </navLabel>
+            <content src="cat1760sec1.xhtml#poem-49811" />
+          </navPoint>
+          <navPoint id="navid3x1x9x2" playOrder="3185">
+            <navLabel>
+              <text>بخش  ۲ - ۱ ابوبکر عبداللّه بن عثمان، الصدیق، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1760sec1.xhtml#poem-49812" />
+          </navPoint>
+          <navPoint id="navid3x1x9x3" playOrder="3186">
+            <navLabel>
+              <text>بخش  ۳ - ۲ ابوحفص عمر بن الخطاب، رضی اللّه عنه : و منهم: سرهنگ اهل ایمان و صُعلوک جمع اهل احسان، ام ...</text>
+            </navLabel>
+            <content src="cat1760sec1.xhtml#poem-49813" />
+          </navPoint>
+          <navPoint id="navid3x1x9x4" playOrder="3187">
+            <navLabel>
+              <text>بخش  ۴ - ۳ ابوعمرو عثمان بن عفان، رضی اللّه عنه : و منهم: گوهر گنج حیا، و اعبد اهل صفا و متعلق درگاه ...</text>
+            </navLabel>
+            <content src="cat1760sec1.xhtml#poem-49814" />
+          </navPoint>
+          <navPoint id="navid3x1x9x5" playOrder="3188">
+            <navLabel>
+              <text>بخش  ۵ - ۴ ابوالحسن علی بن ابی طالب، کرّم اللّه وجهه</text>
+            </navLabel>
+            <content src="cat1760sec1.xhtml#poem-49815" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x10" playOrder="6372">
+          <navLabel>
+            <text>بابٌ فی ذکر أئمَّتِهِم من اهل البیت</text>
+          </navLabel>
+          <content src="cat1761.xhtml" />
+          <navPoint id="navid3x1x10x1" playOrder="6373">
+            <navLabel>
+              <text>بخش  ۱ - بابٌ فی ذکر أئمَّتِهِم من اهل البیت : و اهل بیت پیغامبر علیه السّلام آنان که به طهارت اص ...</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49816" />
+          </navPoint>
+          <navPoint id="navid3x1x10x2" playOrder="6374">
+            <navLabel>
+              <text>بخش  ۲ - ۱ ابومحمد الحسن بن علی، کرّم اللّه وجهه : منهم: جگربند مصطفی و ریحان دل مرتضی، و قرّة عین زه ...</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49817" />
+          </navPoint>
+          <navPoint id="navid3x1x10x3" playOrder="6375">
+            <navLabel>
+              <text>بخش  ۳ - ۲ ابوعبداللّه الحسین بن علی بن ابی طالب، رضی اللّه عنهما</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49818" />
+          </navPoint>
+          <navPoint id="navid3x1x10x4" playOrder="6376">
+            <navLabel>
+              <text>بخش  ۴ - ۳ ابوالحسن علی بن الحسین بن علی بن ابی طالب، رضی اللّه عنهم</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49819" />
+          </navPoint>
+          <navPoint id="navid3x1x10x5" playOrder="6377">
+            <navLabel>
+              <text>بخش  ۵ - ۴ ابوجعفر محمدبن علی بن احلسین بن علی بن ابی طالب، کرّم اللّه وجهه و رضی عنهم</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49820" />
+          </navPoint>
+          <navPoint id="navid3x1x10x6" playOrder="6378">
+            <navLabel>
+              <text>بخش  ۶ - ۵ ابومحمدجعفربن محمدبن علی بن الحسین بن علی، الصادق، رضوان اللّه علیهم اجمعین</text>
+            </navLabel>
+            <content src="cat1761sec1.xhtml#poem-49821" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x11" playOrder="12751">
+          <navLabel>
+            <text>بابٌ فی ذکر ائمّتهم من التّابعین، رضوان اللّه علیهم</text>
+          </navLabel>
+          <content src="cat1763.xhtml" />
+          <navPoint id="navid3x1x11x1" playOrder="12752">
+            <navLabel>
+              <text>بخش  ۱ - ۱ اویس قرنی، رضی اللّه عنه : و منهم: آفتاب امت، و شمع دین و ملت، اویس قرنی، رضی ...</text>
+            </navLabel>
+            <content src="cat1763sec1.xhtml#poem-49826" />
+          </navPoint>
+          <navPoint id="navid3x1x11x2" playOrder="12753">
+            <navLabel>
+              <text>بخش  ۲ - ۲ هَرِم بن حیّان، رضی اللّه عنه : و منهم: شیخ صفا و معدن وفا، هَرِم بن حیان رضی اللّ ...</text>
+            </navLabel>
+            <content src="cat1763sec1.xhtml#poem-49827" />
+          </navPoint>
+          <navPoint id="navid3x1x11x3" playOrder="12754">
+            <navLabel>
+              <text>بخش  ۳ - ۳ ابوعلی الحسن بن ابی الحسن البصری، رحمةاللّه علیه</text>
+            </navLabel>
+            <content src="cat1763sec1.xhtml#poem-49828" />
+          </navPoint>
+          <navPoint id="navid3x1x11x4" playOrder="12755">
+            <navLabel>
+              <text>بخش  ۴ - ۴ سعید بن مسیّب، رحمة اللّه علیه : و منهم: رئیس علما، و مقتدای فقها، سعید بن مسیب، رح ...</text>
+            </navLabel>
+            <content src="cat1763sec1.xhtml#poem-49829" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x12" playOrder="25507">
+          <navLabel>
+            <text>بابٌ ذکر ائمّتهم مِنْ أتباعِ التّابعین</text>
+          </navLabel>
+          <content src="cat1764.xhtml" />
+          <navPoint id="navid3x1x12x1" playOrder="25508">
+            <navLabel>
+              <text>بخش  ۱ - ۱ حبیب العجمی، رضی اللّه عنه : منهم: شجاع طریقت و متمکن اندر شریعت، حبیب العجمی،  ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49830" />
+          </navPoint>
+          <navPoint id="navid3x1x12x2" playOrder="25509">
+            <navLabel>
+              <text>بخش  ۲ - ۲ مالک بن دینار، رضی اللّه عنه : و منهم: بقیهٔ اهل انس و زین جمله جن و انس، مالک بن ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49831" />
+          </navPoint>
+          <navPoint id="navid3x1x12x3" playOrder="25510">
+            <navLabel>
+              <text>بخش  ۳ - ۳ ابوحلیم حبیب بن سُلَیم الرّاعی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49832" />
+          </navPoint>
+          <navPoint id="navid3x1x12x4" playOrder="25511">
+            <navLabel>
+              <text>بخش  ۴ - ۴ ابوحازم المدنیّ، رحمة اللّه علیه : و منهم: پیر صالح، و به صلاح صالح، ابوحازم المدنیّ، ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49833" />
+          </navPoint>
+          <navPoint id="navid3x1x12x5" playOrder="25512">
+            <navLabel>
+              <text>بخش  ۵ - ۵ محمدبن واسع، رضی اللّه عنه : و منهم: داعی اهل مجاهدت، و قایم اندر محل مشاهدت، م ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49834" />
+          </navPoint>
+          <navPoint id="navid3x1x12x6" playOrder="25513">
+            <navLabel>
+              <text>بخش  ۶ - ۶ ابوحنیف نُعمان بن ثابت الخزّاز، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49835" />
+          </navPoint>
+          <navPoint id="navid3x1x12x7" playOrder="25514">
+            <navLabel>
+              <text>بخش  ۷ - ۷ عبداللّه بن المبارک المروزی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49836" />
+          </navPoint>
+          <navPoint id="navid3x1x12x8" playOrder="25515">
+            <navLabel>
+              <text>بخش  ۸ - ۸ ابوعلی فُضَیل بن عیاض، رضی اللّه عنه : و منهم: شاه اهل حضرت و پادشاه ولایت وصلت، ابوعلی ف ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49837" />
+          </navPoint>
+          <navPoint id="navid3x1x12x9" playOrder="25516">
+            <navLabel>
+              <text>بخش  ۹ - ۹ ابوالفیض ذوالنون بن ابراهیم المصری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49838" />
+          </navPoint>
+          <navPoint id="navid3x1x12x10" playOrder="25517">
+            <navLabel>
+              <text>بخش  ۱۰ - ۱۰ ابواسحاق ابراهیم بن ادهم بن منصور، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49839" />
+          </navPoint>
+          <navPoint id="navid3x1x12x11" playOrder="25518">
+            <navLabel>
+              <text>بخش  ۱۱ - ۱۱ بشر بن الحارث الحافی، رضی اللّه عنه : و منهم: سریر معرفت، و تاج اهل معاملت، بشر بن الحار ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49840" />
+          </navPoint>
+          <navPoint id="navid3x1x12x12" playOrder="25519">
+            <navLabel>
+              <text>بخش  ۱۲ - ۱۲ ابویزید طیفور بن عیسی البسطامیّ، رضی اللّه عن</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49841" />
+          </navPoint>
+          <navPoint id="navid3x1x12x13" playOrder="25520">
+            <navLabel>
+              <text>بخش  ۱۳ - ۱۳ ابوعبداللّه الحارث بن اسد المحاسبی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49842" />
+          </navPoint>
+          <navPoint id="navid3x1x12x14" playOrder="25521">
+            <navLabel>
+              <text>بخش  ۱۴ - ۱۴ ابوسلیمان داود بن نُصَیر الطّائی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49843" />
+          </navPoint>
+          <navPoint id="navid3x1x12x15" playOrder="25522">
+            <navLabel>
+              <text>بخش  ۱۵ - ۱۵ ابوالحسن سریّ بن المُغلّس السّقطی، رحمةاللّه علیه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49844" />
+          </navPoint>
+          <navPoint id="navid3x1x12x16" playOrder="25523">
+            <navLabel>
+              <text>بخش  ۱۶ - ۱۶ ابوعلی شقیق بن ابراهیم الأزْدی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49845" />
+          </navPoint>
+          <navPoint id="navid3x1x12x17" playOrder="25524">
+            <navLabel>
+              <text>بخش  ۱۷ - ۱۷ ابوسلیمان عبدالرّحمان بن عطیّة الدّارانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49846" />
+          </navPoint>
+          <navPoint id="navid3x1x12x18" playOrder="25525">
+            <navLabel>
+              <text>بخش  ۱۸ - ۱۸ ابومحفوظ معروف بن فیروز الکرخی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49847" />
+          </navPoint>
+          <navPoint id="navid3x1x12x19" playOrder="25526">
+            <navLabel>
+              <text>بخش  ۱۹ - ۱۹ ابوعبدالرّحمان حاتم بن عُنوان الأصم، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49848" />
+          </navPoint>
+          <navPoint id="navid3x1x12x20" playOrder="25527">
+            <navLabel>
+              <text>بخش  ۲۰ - ۲۰ ابوعبداللّه محمدبن ادریس الشّافعی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49849" />
+          </navPoint>
+          <navPoint id="navid3x1x12x21" playOrder="25528">
+            <navLabel>
+              <text>بخش  ۲۱ - ۲۱ ابوعبداللّه احمدبن حنبل، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49850" />
+          </navPoint>
+          <navPoint id="navid3x1x12x22" playOrder="25529">
+            <navLabel>
+              <text>بخش  ۲۲ - ۲۲ ابوالحسن احمدبن ابی الحواری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49851" />
+          </navPoint>
+          <navPoint id="navid3x1x12x23" playOrder="25530">
+            <navLabel>
+              <text>بخش  ۲۳ - ۲۳ ابوحامد احمدبن خضرویه البلخی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49852" />
+          </navPoint>
+          <navPoint id="navid3x1x12x24" playOrder="25531">
+            <navLabel>
+              <text>بخش  ۲۴ - ۲۴ ابوتراب عسکر بن الحُصَین النَّسَفی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49853" />
+          </navPoint>
+          <navPoint id="navid3x1x12x25" playOrder="25532">
+            <navLabel>
+              <text>بخش  ۲۵ - ۲۵ ابو زکرّیا یحیی بن مُعاذ الرّازی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49854" />
+          </navPoint>
+          <navPoint id="navid3x1x12x26" playOrder="25533">
+            <navLabel>
+              <text>بخش  ۲۶ - ۲۶ ابوحَفص عمر بن سالم النّیسابوریّ رضی اللّه عنهالحدّاد</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49855" />
+          </navPoint>
+          <navPoint id="navid3x1x12x27" playOrder="25534">
+            <navLabel>
+              <text>بخش  ۲۷ - ۲۷ ابوصالح حمدون بن احمدبن عمارة القصّار، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49856" />
+          </navPoint>
+          <navPoint id="navid3x1x12x28" playOrder="25535">
+            <navLabel>
+              <text>بخش  ۲۸ - ۲۸ ابوالسّری منصور بن عمّار، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49857" />
+          </navPoint>
+          <navPoint id="navid3x1x12x29" playOrder="25536">
+            <navLabel>
+              <text>بخش  ۲۹ - ۲۹ ابوعبداللّه احمدبن عاصم الانطاکی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49858" />
+          </navPoint>
+          <navPoint id="navid3x1x12x30" playOrder="25537">
+            <navLabel>
+              <text>بخش  ۳۰ - ۳۰ ابومحمد عبداللّه بن خُبَیق، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49859" />
+          </navPoint>
+          <navPoint id="navid3x1x12x31" playOrder="25538">
+            <navLabel>
+              <text>بخش  ۳۱ - ۳۱ ابوالقاسم الجنید بن محمد بن الجنید القواریری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49860" />
+          </navPoint>
+          <navPoint id="navid3x1x12x32" playOrder="25539">
+            <navLabel>
+              <text>بخش  ۳۲ - ۳۲ ابوالحسن احمدبن محمد النّوری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49861" />
+          </navPoint>
+          <navPoint id="navid3x1x12x33" playOrder="25540">
+            <navLabel>
+              <text>بخش  ۳۳ - ۳۳ ابوعثمان سعید بن اسماعیل الحیری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49862" />
+          </navPoint>
+          <navPoint id="navid3x1x12x34" playOrder="25541">
+            <navLabel>
+              <text>بخش  ۳۴ - ۳۴ ابوعبداللّه احمدبن یحیی بن الجّلاء، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49863" />
+          </navPoint>
+          <navPoint id="navid3x1x12x35" playOrder="25542">
+            <navLabel>
+              <text>بخش  ۳۵ - ۳۵ ابومحمد رُوَیم بن احمد، رضی اللّه عنه : و منهم: وحید عصر و امام دهر، ابومحمد رُوَیم بن احم ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49864" />
+          </navPoint>
+          <navPoint id="navid3x1x12x36" playOrder="25543">
+            <navLabel>
+              <text>بخش  ۳۶ - ۳۶ ابویعقوب یوسف بن حسین الرازی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49865" />
+          </navPoint>
+          <navPoint id="navid3x1x12x37" playOrder="25544">
+            <navLabel>
+              <text>بخش  ۳۷ - ۳۷ ابوالحسین سَمنون بن عبداللّه الخواص، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49866" />
+          </navPoint>
+          <navPoint id="navid3x1x12x38" playOrder="25545">
+            <navLabel>
+              <text>بخش  ۳۸ - ۳۸ ابوالفوارس شاه بن شجاع الکرمانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49867" />
+          </navPoint>
+          <navPoint id="navid3x1x12x39" playOrder="25546">
+            <navLabel>
+              <text>بخش  ۳۹ - ۳۹ عمرو بن عثمان المکّی، رضی اللّه عنه : و منهم: سرور دلها، و نور سرها، عمرو بن عثمان المکی ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49868" />
+          </navPoint>
+          <navPoint id="navid3x1x12x40" playOrder="25547">
+            <navLabel>
+              <text>بخش  ۴۰ - ۴۰ ابومحمدسهل بن عبداللّه التُّستَری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49869" />
+          </navPoint>
+          <navPoint id="navid3x1x12x41" playOrder="25548">
+            <navLabel>
+              <text>بخش  ۴۱ - ۴۱ ابوعبداللّه محمّد بن الفضل البلخی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49870" />
+          </navPoint>
+          <navPoint id="navid3x1x12x42" playOrder="25549">
+            <navLabel>
+              <text>بخش  ۴۲ - ۴۲ ابوعبداللّه محمد بن علی التّرمذی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49871" />
+          </navPoint>
+          <navPoint id="navid3x1x12x43" playOrder="25550">
+            <navLabel>
+              <text>بخش  ۴۳ - ۴۳ ابوبکر محمد بن عمر الوراق، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49872" />
+          </navPoint>
+          <navPoint id="navid3x1x12x44" playOrder="25551">
+            <navLabel>
+              <text>بخش  ۴۴ - ۴۴ ابوسعید احمدبن عیسی الخرّاز، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49873" />
+          </navPoint>
+          <navPoint id="navid3x1x12x45" playOrder="25552">
+            <navLabel>
+              <text>بخش  ۴۵ - ۴۵ ابوالحسن علی بن محمد الاصفهانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49874" />
+          </navPoint>
+          <navPoint id="navid3x1x12x46" playOrder="25553">
+            <navLabel>
+              <text>بخش  ۴۶ - ۴۶ ابوالحسن محمدبن اسماعیل، خیر النّساج، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49875" />
+          </navPoint>
+          <navPoint id="navid3x1x12x47" playOrder="25554">
+            <navLabel>
+              <text>بخش  ۴۷ - ۴۷ ابوحمزۀ خراسانی، رضی اللّه عنه : و منهم: داعی عصر، و یگانهٔ دهر، ابوحمزهٔ خراسانی،  ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49876" />
+          </navPoint>
+          <navPoint id="navid3x1x12x48" playOrder="25555">
+            <navLabel>
+              <text>بخش  ۴۸ - ۴۸ ابوالعباس احمدبن مسروق، رضی اللّه عنه : و منهم: داعی مریدان به حکم فرمان، ابوالعباس احمدبن ...</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49877" />
+          </navPoint>
+          <navPoint id="navid3x1x12x49" playOrder="25556">
+            <navLabel>
+              <text>بخش  ۴۹ - ۴۹ ابوعبداللّه محمد بن اسماعیل المغربی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49878" />
+          </navPoint>
+          <navPoint id="navid3x1x12x50" playOrder="25557">
+            <navLabel>
+              <text>بخش  ۵۰ - ۵۰ ابوعلی الحسن بن علی الجوزجانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49879" />
+          </navPoint>
+          <navPoint id="navid3x1x12x51" playOrder="25558">
+            <navLabel>
+              <text>بخش  ۵۱ - ۵۱ ابومحمّد احمدبن الحسین الجُریری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49880" />
+          </navPoint>
+          <navPoint id="navid3x1x12x52" playOrder="25559">
+            <navLabel>
+              <text>بخش  ۵۲ - ۵۲ ابوالعبّاس احمدبن محمّد بن سهل الأَدَمی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49881" />
+          </navPoint>
+          <navPoint id="navid3x1x12x53" playOrder="25560">
+            <navLabel>
+              <text>بخش  ۵۳ - ۵۳ ابوالمغیث الحسین بن منصور الحلاج، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49882" />
+          </navPoint>
+          <navPoint id="navid3x1x12x54" playOrder="25561">
+            <navLabel>
+              <text>بخش  ۵۴ - ۵۴ ابواسحاق ابراهیم بن احمد الخوّاص، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49883" />
+          </navPoint>
+          <navPoint id="navid3x1x12x55" playOrder="25562">
+            <navLabel>
+              <text>بخش  ۵۵ - ۵۵ ابوحمزة البغدادیّ البزّاز، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49884" />
+          </navPoint>
+          <navPoint id="navid3x1x12x56" playOrder="25563">
+            <navLabel>
+              <text>بخش  ۵۶ - ۵۶ ابوبکر محمدبن موسی الواسطی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49885" />
+          </navPoint>
+          <navPoint id="navid3x1x12x57" playOrder="25564">
+            <navLabel>
+              <text>بخش  ۵۷ - ۵۷ ابوبکر دُلَف بن جَحدر الشّبلی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49886" />
+          </navPoint>
+          <navPoint id="navid3x1x12x58" playOrder="25565">
+            <navLabel>
+              <text>بخش  ۵۸ - ۵۸ ابومحمدجعفربن نُصَیر الخلدیّ، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49887" />
+          </navPoint>
+          <navPoint id="navid3x1x12x59" playOrder="25566">
+            <navLabel>
+              <text>بخش  ۵۹ - ۵۹ ابوعلی احمدبن محمّد بن القاسم الرّودباری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49888" />
+          </navPoint>
+          <navPoint id="navid3x1x12x60" playOrder="25567">
+            <navLabel>
+              <text>بخش  ۶۰ - ۶۰ ابوالعبّاس القاسم بن مهدی السّیّاری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49889" />
+          </navPoint>
+          <navPoint id="navid3x1x12x61" playOrder="25568">
+            <navLabel>
+              <text>بخش  ۶۱ - ۶۱ ابوعبداللّه محمّد بن خفیف، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49890" />
+          </navPoint>
+          <navPoint id="navid3x1x12x62" playOrder="25569">
+            <navLabel>
+              <text>بخش  ۶۲ - ۶۲ ابوعثمان سعید بن سلّام المغربی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49891" />
+          </navPoint>
+          <navPoint id="navid3x1x12x63" playOrder="25570">
+            <navLabel>
+              <text>بخش  ۶۳ - ۶۳ ابوالقاسم ابراهیم بن محمّد بن محمویه النّصرآبادی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49892" />
+          </navPoint>
+          <navPoint id="navid3x1x12x64" playOrder="25571">
+            <navLabel>
+              <text>بخش  ۶۴ - ۶۴ ابوالحسن علی بن ابراهیم الحصری، رحمةاللّه علیه</text>
+            </navLabel>
+            <content src="cat1764sec1.xhtml#poem-49893" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x13" playOrder="51079">
+          <navLabel>
+            <text>بابُ فی ذِکرِ أئمَّتِهم مِنَ المتأخّرین، رضوانُ اللّه علیهم اجمعین</text>
+          </navLabel>
+          <content src="cat1765.xhtml" />
+          <navPoint id="navid3x1x13x1" playOrder="51080">
+            <navLabel>
+              <text>بخش  ۱ - بابُ فی ذِکرِ أئمَّتِهم مِنَ المتأخّرین، رضوانُ اللّه علیهم اجمعین</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49894" />
+          </navPoint>
+          <navPoint id="navid3x1x13x2" playOrder="51081">
+            <navLabel>
+              <text>بخش  ۲ - ۱ ابوالعباس احمدبن محمّد القصّاب، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49895" />
+          </navPoint>
+          <navPoint id="navid3x1x13x3" playOrder="51082">
+            <navLabel>
+              <text>بخش  ۳ - ۲ ابوعلی الحسن بن علی بن محمد الدّقّاق، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49896" />
+          </navPoint>
+          <navPoint id="navid3x1x13x4" playOrder="51083">
+            <navLabel>
+              <text>بخش  ۴ - ۳ ابوالحسن علی بن احمد الخرقانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49897" />
+          </navPoint>
+          <navPoint id="navid3x1x13x5" playOrder="51084">
+            <navLabel>
+              <text>بخش  ۵ - ۴ ابوعبداللّه محمد بن علی، المعروف بالدّاستانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49898" />
+          </navPoint>
+          <navPoint id="navid3x1x13x6" playOrder="51085">
+            <navLabel>
+              <text>بخش  ۶ - ۵ ابوسعید فضل اللّه بن محمد المیهنی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49899" />
+          </navPoint>
+          <navPoint id="navid3x1x13x7" playOrder="51086">
+            <navLabel>
+              <text>بخش  ۷ - ۶ ابوالفضل محمدبن الحسن الختلی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49900" />
+          </navPoint>
+          <navPoint id="navid3x1x13x8" playOrder="51087">
+            <navLabel>
+              <text>بخش  ۸ - ۷ ابوالقاسم عبدالکریم بن هوازن القشیری، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49901" />
+          </navPoint>
+          <navPoint id="navid3x1x13x9" playOrder="51088">
+            <navLabel>
+              <text>بخش  ۹ - ۸ ابوالعبّاس احمدبن محمّد الشّقّانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49902" />
+          </navPoint>
+          <navPoint id="navid3x1x13x10" playOrder="51089">
+            <navLabel>
+              <text>بخش  ۱۰ - ۹ ابوالقاسم علی الکُرّکانی، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49903" />
+          </navPoint>
+          <navPoint id="navid3x1x13x11" playOrder="51090">
+            <navLabel>
+              <text>بخش  ۱۱ - ۱۰ ابواحمد المظفّر بن احمدبن حمدان، رضی اللّه عنه</text>
+            </navLabel>
+            <content src="cat1765sec1.xhtml#poem-49904" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x14" playOrder="102170">
+          <navLabel>
+            <text>بابٌ فی ذکرِ رجالِ الصّوفیة منَ المتأخّرین علی الاختصار</text>
+          </navLabel>
+          <content src="cat1766.xhtml" />
+          <navPoint id="navid3x1x14x1" playOrder="102171">
+            <navLabel>
+              <text>بخش  ۱ - بابٌ فی ذکرِ رجالِ الصّوفیة منَ المتأخّرین علی الاختصار من أهلِ البُلدان</text>
+            </navLabel>
+            <content src="cat1766sec1.xhtml#poem-49905" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x15" playOrder="204342">
+          <navLabel>
+            <text>بابٌ فی فرقِ فِرَقهم و مذاهِبهم و آیاتِهم و مقاماتِهم و حکایاتِهم</text>
+          </navLabel>
+          <content src="cat1767.xhtml" />
+          <navPoint id="navid3x1x15x1" playOrder="204343">
+            <navLabel>
+              <text>بخش  ۱ - بابٌ فی فرقِ فِرَقهم و مذاهِبهم و آیاتِهم و مقاماتِهم و حکایاتِهم</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49906" />
+          </navPoint>
+          <navPoint id="navid3x1x15x2" playOrder="204344">
+            <navLabel>
+              <text>بخش  ۲ - اما المحاسبیّة : تولای محاسبیان به ابی عبداللّه الحارث بن الاسد الم ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49907" />
+          </navPoint>
+          <navPoint id="navid3x1x15x3" playOrder="204345">
+            <navLabel>
+              <text>بخش  ۳ - الکلام فی حقیقة الرّضا : و در بیان این مذهب شرط آن است که نخست حقیقت رضا اث ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49908" />
+          </navPoint>
+          <navPoint id="navid3x1x15x4" playOrder="204346">
+            <navLabel>
+              <text>بخش  ۴ - فصل : اندر آثار است که موسی گفت، علیه السّلام: «الهی دُل ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49909" />
+          </navPoint>
+          <navPoint id="navid3x1x15x5" playOrder="204347">
+            <navLabel>
+              <text>بخش  ۵ - الفرقُ بینَ المقامِ و الحالِ : بدان که این دو لفظ مستعمل است اندر میان این طایفه  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49910" />
+          </navPoint>
+          <navPoint id="navid3x1x15x6" playOrder="204348">
+            <navLabel>
+              <text>بخش  ۶ - اما القصاریة : تولا قصاریان به ابی صالح، حمدون بن احمدبن عمارةالق ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49911" />
+          </navPoint>
+          <navPoint id="navid3x1x15x7" playOrder="204349">
+            <navLabel>
+              <text>بخش  ۷ - اما الطّیفوریّة : این گروه تولا به ابویزید، طیفور بن عیسی البسطامی ر ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49912" />
+          </navPoint>
+          <navPoint id="navid3x1x15x8" playOrder="204350">
+            <navLabel>
+              <text>بخش  ۸ - الکلام فی السُّکر و الصَحْو : بدان اعزّک اللّه که: سُکْر و غلبه عبارتی است که ار ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49913" />
+          </navPoint>
+          <navPoint id="navid3x1x15x9" playOrder="204351">
+            <navLabel>
+              <text>بخش  ۹ - اما الجنیدیّة : تولا جنیدیان به ابوالقاسم الجنید بن محمد کنند، رضی ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49914" />
+          </navPoint>
+          <navPoint id="navid3x1x15x10" playOrder="204352">
+            <navLabel>
+              <text>بخش  ۱۰ - اما النّوریّة : تولای نوریان به ابی الحسن احمدبن محمد النوری رضی ا ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49915" />
+          </navPoint>
+          <navPoint id="navid3x1x15x11" playOrder="204353">
+            <navLabel>
+              <text>بخش  ۱۱ - الکلام فی حقیقة الایثار : قال اللّه، تعالی: «ویُؤْثِرُونَ عَلی أَنْفُسِهِمْ  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49916" />
+          </navPoint>
+          <navPoint id="navid3x1x15x12" playOrder="204354">
+            <navLabel>
+              <text>بخش  ۱۲ - و امّا السّهلیّة : تولای سهلیان به سهل عبداللّه التّستری رحمة اللّه ع ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49917" />
+          </navPoint>
+          <navPoint id="navid3x1x15x13" playOrder="204355">
+            <navLabel>
+              <text>بخش  ۱۳ - الکلام فی حقیقة النّفس و معنی الهوی : بدان که نفس از روی لغت وجودُ الشّیء باشد و حقیقتُه ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49918" />
+          </navPoint>
+          <navPoint id="navid3x1x15x14" playOrder="204356">
+            <navLabel>
+              <text>بخش  ۱۴ - فصل : اما آن‌چه مشایخ گفته‌اند اندر نفس:</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49919" />
+          </navPoint>
+          <navPoint id="navid3x1x15x15" playOrder="204357">
+            <navLabel>
+              <text>بخش  ۱۵ - الکلام فی مجاهدات النّفسِ : قوله، تعالی: «والَّذینَ جاهُدَوا فینا لَنَهْدِیَنّ ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49920" />
+          </navPoint>
+          <navPoint id="navid3x1x15x16" playOrder="204358">
+            <navLabel>
+              <text>بخش  ۱۶ - الکلام فی حقیقة الهوی : بدان أعزِّکَ اللّه که هوی عبارتی است از اوصاف نفس  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49921" />
+          </navPoint>
+          <navPoint id="navid3x1x15x17" playOrder="204359">
+            <navLabel>
+              <text>بخش  ۱۷ - اما الحکیمیّة : تولّا حکیمیان به ابی عبداللّه محمدبن علی حکیم التر ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49922" />
+          </navPoint>
+          <navPoint id="navid3x1x15x18" playOrder="204360">
+            <navLabel>
+              <text>بخش  ۱۸ - الکلام فی اثبات الولایة : بدان که قاعده و اساس طریقت تصوّف و معرفت جمله بر و ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49923" />
+          </navPoint>
+          <navPoint id="navid3x1x15x19" playOrder="204361">
+            <navLabel>
+              <text>بخش  ۱۹ - فصل : بدان قوّاک اللّه که این متداول است میان خلق و کتاب ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49924" />
+          </navPoint>
+          <navPoint id="navid3x1x15x20" playOrder="204362">
+            <navLabel>
+              <text>بخش  ۲۰ - فصل : و مشایخ را رحمهم اللّه هر یکی در تحقیق عبارت از ول ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49925" />
+          </navPoint>
+          <navPoint id="navid3x1x15x21" playOrder="204363">
+            <navLabel>
+              <text>بخش  ۲۱ - الکلام فی اثبات الکرامات : بدان که ظهور کرامات جایز است بر ولی اندر حال صحت ت ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49926" />
+          </navPoint>
+          <navPoint id="navid3x1x15x22" playOrder="204364">
+            <navLabel>
+              <text>بخش  ۲۲ - الکلامُ فی الْفَرقِ بینَ المعجزات و الکرامات</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49927" />
+          </navPoint>
+          <navPoint id="navid3x1x15x23" playOrder="204365">
+            <navLabel>
+              <text>بخش  ۲۳ - الکلامُ فی اظهار جنسِ المعجزةِ علی یدَی مَنْ یدٌعِی الْإلهیّة</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49928" />
+          </navPoint>
+          <navPoint id="navid3x1x15x24" playOrder="204366">
+            <navLabel>
+              <text>بخش  ۲۴ - الکلام فی ذکر کراماتهم : بدان که چون حجت عقل ثابت شد بر صحت کرامات، و دلیل  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49929" />
+          </navPoint>
+          <navPoint id="navid3x1x15x25" playOrder="204367">
+            <navLabel>
+              <text>بخش  ۲۵ - الکلام فی تفضیل الانبیاء علی الاولیاء : بدان که اندر همه اوقات و احوال، باتفاق جملهٔ مشایخ ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49930" />
+          </navPoint>
+          <navPoint id="navid3x1x15x26" playOrder="204368">
+            <navLabel>
+              <text>بخش  ۲۶ - الکلامُ فی تفضیلِ الأنبیاءِ و الأولیاء عَلَی الملائکةِ و المؤمنینَ أیضاً</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49931" />
+          </navPoint>
+          <navPoint id="navid3x1x15x27" playOrder="204369">
+            <navLabel>
+              <text>بخش  ۲۷ - امّا الخّرازیّة : تولا خرازیان به ابی سعید خراز رضی اللّه عنه کنند و ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49932" />
+          </navPoint>
+          <navPoint id="navid3x1x15x28" playOrder="204370">
+            <navLabel>
+              <text>بخش  ۲۸ - الکلام فی الفناء و البقاء : قوله، تعالی: «ما عِنْدَکُمْ یَنْفَدُ وَماعِنْدَ ال ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49933" />
+          </navPoint>
+          <navPoint id="navid3x1x15x29" playOrder="204371">
+            <navLabel>
+              <text>بخش  ۲۹ - فصل : مشایخ را رضی اللّه عنهم اندر این معنی هر یکی لطیفه ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49934" />
+          </navPoint>
+          <navPoint id="navid3x1x15x30" playOrder="204372">
+            <navLabel>
+              <text>بخش  ۳۰ - و امّا الخفیفیّة : خفیفیان تولا به ابی عبداللّه محمدبن خفیف کنند. و و ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49935" />
+          </navPoint>
+          <navPoint id="navid3x1x15x31" playOrder="204373">
+            <navLabel>
+              <text>بخش  ۳۱ - الکلام فی الغیبةِ و الحضور : این عبارت‌هایی است که طردشان چون عکس بود اندر عین  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49936" />
+          </navPoint>
+          <navPoint id="navid3x1x15x32" playOrder="204374">
+            <navLabel>
+              <text>بخش  ۳۲ - اما السّیاریّة : تولا سیّاریان به ابی العبّاس سیاری کنند، رضی اللّه ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49937" />
+          </navPoint>
+          <navPoint id="navid3x1x15x33" playOrder="204375">
+            <navLabel>
+              <text>بخش  ۳۳ - الکلام فی الجمع و التفرقة : جمع کرد خدای تعالی خلق را اندر دعوت؛ قوله، تعالی:  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49938" />
+          </navPoint>
+          <navPoint id="navid3x1x15x34" playOrder="204376">
+            <navLabel>
+              <text>بخش  ۳۴ - فصل : ماند این‌جا خلافی که هست میان ما و میان گروهی که گ ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49939" />
+          </navPoint>
+          <navPoint id="navid3x1x15x35" playOrder="204377">
+            <navLabel>
+              <text>بخش  ۳۵ - امّا الحلولیّه، لعنهم اللّه : قوله تعالی: «فماذا بعدَ الحقِّ الّا الضّلالُ (۳۲/ی ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49940" />
+          </navPoint>
+          <navPoint id="navid3x1x15x36" playOrder="204378">
+            <navLabel>
+              <text>بخش  ۳۶ - الکلام فی الرّوح : بدان که اندر هستی روح علم ضروری است و اندر چگونگی  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49941" />
+          </navPoint>
+          <navPoint id="navid3x1x15x37" playOrder="204379">
+            <navLabel>
+              <text>بخش  ۳۷ - فصل : یکی از مشایخ گوید رحمة اللّه علیه که: «الرّوحُ فی  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49942" />
+          </navPoint>
+          <navPoint id="navid3x1x15x38" playOrder="204380">
+            <navLabel>
+              <text>بخش  ۳۸ - کشف الحجاب الأوّل فی معرفة اللّه، تعالی : قوله، تعالی: «وَما قَدَرُوا اللّه حقَّ قَدْرِه (۹۱ ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49943" />
+          </navPoint>
+          <navPoint id="navid3x1x15x39" playOrder="204381">
+            <navLabel>
+              <text>بخش  ۳۹ - فصل : بدان اسعدک اللّه که مردمان را اندر معرفت خداوند تع ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49944" />
+          </navPoint>
+          <navPoint id="navid3x1x15x40" playOrder="204382">
+            <navLabel>
+              <text>بخش  ۴۰ - فصل : مشایخ را اندر این معنی رموز بسیار است و من حصول فو ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49945" />
+          </navPoint>
+          <navPoint id="navid3x1x15x41" playOrder="204383">
+            <navLabel>
+              <text>بخش  ۴۱ - کشفُ الحجابِ الثّانی فی التّوحیدِ : قوله، تعالی: «وَإلهُکُمْ إلهٌ واحِدٌ (۱۶۳/البقره). ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49946" />
+          </navPoint>
+          <navPoint id="navid3x1x15x42" playOrder="204384">
+            <navLabel>
+              <text>بخش  ۴۲ - فصل : از جنید رضی اللّه عنه می‌آید که گفت: «التّوحیدُ إف ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49947" />
+          </navPoint>
+          <navPoint id="navid3x1x15x43" playOrder="204385">
+            <navLabel>
+              <text>بخش  ۴۳ - کشف الحجاب الثّالث فی الایمان : قوله، تعالی: «یا ایّها الّذین امَنوا امِنوا (۱۳۶/ا ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49948" />
+          </navPoint>
+          <navPoint id="navid3x1x15x44" playOrder="204386">
+            <navLabel>
+              <text>بخش  ۴۴ - فصل : بدان که اتفاق است میان اهل سنت و جماعت و اهل تحقیق ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49949" />
+          </navPoint>
+          <navPoint id="navid3x1x15x45" playOrder="204387">
+            <navLabel>
+              <text>بخش  ۴۵ - کشف الحجاب الرّابع فی الطّهارة : از پس ایمان نخستین چیز که بر بنده فریضه شود طهارت  ...</text>
+            </navLabel>
+            <content src="cat1767sec1.xhtml#poem-49950" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x16" playOrder="408730">
+          <navLabel>
+            <text>باب التّوبة و ما یتعلّق بها</text>
+          </navLabel>
+          <content src="cat1768.xhtml" />
+          <navPoint id="navid3x1x16x1" playOrder="408731">
+            <navLabel>
+              <text>بخش  ۱ - باب التّوبة و ما یتعلّق بها : بدان که اول مقام سالکان طریق حق توبه است؛ چنان‌که  ...</text>
+            </navLabel>
+            <content src="cat1768sec1.xhtml#poem-49951" />
+          </navPoint>
+          <navPoint id="navid3x1x16x2" playOrder="408732">
+            <navLabel>
+              <text>بخش  ۲ - فصل : بدان که توبه را شرط تأیید نیست؛ از بعد آن که عزم ب ...</text>
+            </navLabel>
+            <content src="cat1768sec1.xhtml#poem-49952" />
+          </navPoint>
+          <navPoint id="navid3x1x16x3" playOrder="408733">
+            <navLabel>
+              <text>بخش  ۳ - فصل : ذوالنون مصری گوید: «تَوْبَةُ العَوامُ مِنَ الذُّنُ ...</text>
+            </navLabel>
+            <content src="cat1768sec1.xhtml#poem-49953" />
+          </navPoint>
+          <navPoint id="navid3x1x16x4" playOrder="408734">
+            <navLabel>
+              <text>بخش  ۴ - کشفُ الحجابِ الخامسِ فی الصّلوةِ : قوله،تعالی: «أقیمُوا الصَّلوةَ و اتُوا الزّکوةَ (۴ ...</text>
+            </navLabel>
+            <content src="cat1768sec1.xhtml#poem-49954" />
+          </navPoint>
+          <navPoint id="navid3x1x16x5" playOrder="408735">
+            <navLabel>
+              <text>بخش  ۵ - فصل : بدان که نماز عبادتی است که از ابتدا تا انتها، مرید ...</text>
+            </navLabel>
+            <content src="cat1768sec1.xhtml#poem-49955" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x17" playOrder="817466">
+          <navLabel>
+            <text>باب المحبّة و ما یتعلّق بها</text>
+          </navLabel>
+          <content src="cat1769.xhtml" />
+          <navPoint id="navid3x1x17x1" playOrder="817467">
+            <navLabel>
+              <text>بخش  ۱ - باب المحبّة و ما یتعلّق بها : قوله، تعالی: «یا ایّها الّذین آمَنوا مَنْ یَرْتَدّ ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49956" />
+          </navPoint>
+          <navPoint id="navid3x1x17x2" playOrder="817468">
+            <navLabel>
+              <text>بخش  ۲ - فصل : بدان که محبت اندر استعمال علما بر وجوه است: یکی به ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49957" />
+          </navPoint>
+          <navPoint id="navid3x1x17x3" playOrder="817469">
+            <navLabel>
+              <text>بخش  ۳ - کیفیّةُ المحبَّةِ مِنَ اللّهِ تعالی بأولیائِهِ و مِن اولیائه إلی حَضْرته</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49958" />
+          </navPoint>
+          <navPoint id="navid3x1x17x4" playOrder="817470">
+            <navLabel>
+              <text>بخش  ۴ - فصل : در جمله محبت اندر میان همه اصناف خلق معروف است، و  ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49959" />
+          </navPoint>
+          <navPoint id="navid3x1x17x5" playOrder="817471">
+            <navLabel>
+              <text>بخش  ۵ - فصل : اما اندر عشق مشایخ را سخن بسیار است:</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49960" />
+          </navPoint>
+          <navPoint id="navid3x1x17x6" playOrder="817472">
+            <navLabel>
+              <text>بخش  ۶ - فصل : و مشایخ این طایفه را اندر تحقیق دوستی رموز بیش از  ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49961" />
+          </navPoint>
+          <navPoint id="navid3x1x17x7" playOrder="817473">
+            <navLabel>
+              <text>بخش  ۷ - کشفُ الحجاب السّادس فی الزّکوة : قوله، تعالی:«و أقیمُوا الصَّلوةَ و اتُوا الزّکوةَ  ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49962" />
+          </navPoint>
+          <navPoint id="navid3x1x17x8" playOrder="817474">
+            <navLabel>
+              <text>بخش  ۸ - فصل : و از مشایخ متصوّفه بوده‌اند که زکات بستده‌اند، و ک ...</text>
+            </navLabel>
+            <content src="cat1769sec1.xhtml#poem-49963" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x18" playOrder="1634941">
+          <navLabel>
+            <text>باب الجود و السّخاء</text>
+          </navLabel>
+          <content src="cat1770.xhtml" />
+          <navPoint id="navid3x1x18x1" playOrder="1634942">
+            <navLabel>
+              <text>بخش  ۱ - باب الجود و السّخاء : قوله، علیه السّلام: «السّخیُّ قریبٌ مِنَ اللّه، قر ...</text>
+            </navLabel>
+            <content src="cat1770sec1.xhtml#poem-49964" />
+          </navPoint>
+          <navPoint id="navid3x1x18x2" playOrder="1634943">
+            <navLabel>
+              <text>بخش  ۲ - کشفُ الحجاب السّابع فی الصّوم : قوله، تعالی: «یا أیَّهَا الَّذینَ آمَنُوا کُتِبَ ع ...</text>
+            </navLabel>
+            <content src="cat1770sec1.xhtml#poem-49965" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x19" playOrder="3269885">
+          <navLabel>
+            <text>باب الجوع</text>
+          </navLabel>
+          <content src="cat1771.xhtml" />
+          <navPoint id="navid3x1x19x1" playOrder="3269886">
+            <navLabel>
+              <text>بخش  ۱ - باب الجوع : قوله، تعالی: «و لنَبْلُونَّکم بشیءٍ من الخوفِ و ال ...</text>
+            </navLabel>
+            <content src="cat1771sec1.xhtml#poem-49966" />
+          </navPoint>
+          <navPoint id="navid3x1x19x2" playOrder="3269887">
+            <navLabel>
+              <text>بخش  ۲ - کشفُ الحجابِ الثّامنِ فی الحجّ : قوله، تعالی: «و للّهِ عَلَی النّاسِ حِجُّ البَیْتِ ...</text>
+            </navLabel>
+            <content src="cat1771sec1.xhtml#poem-49967" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x20" playOrder="6539773">
+          <navLabel>
+            <text>باب المشاهدات</text>
+          </navLabel>
+          <content src="cat1772.xhtml" />
+          <navPoint id="navid3x1x20x1" playOrder="6539774">
+            <navLabel>
+              <text>بخش  ۱ - باب المشاهدات : قال النّبیّ، علیه السّلام «أجیعُوا بُطونَکم، دَعُو ...</text>
+            </navLabel>
+            <content src="cat1772sec1.xhtml#poem-49973" />
+          </navPoint>
+          <navPoint id="navid3x1x20x2" playOrder="6539775">
+            <navLabel>
+              <text>بخش  ۲ - کشفُ الحجاب التّاسع فی الصّحبة مع آداب‌‌ها و أحکام‌ها</text>
+            </navLabel>
+            <content src="cat1772sec1.xhtml#poem-49974" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x21" playOrder="13079549">
+          <navLabel>
+            <text>باب الصّحبة و ما یتعلّق بها</text>
+          </navLabel>
+          <content src="cat1773.xhtml" />
+          <navPoint id="navid3x1x21x1" playOrder="13079550">
+            <navLabel>
+              <text>بخش  ۱ - باب الصّحبة و ما یتعلّق بها : قال اللّه، تبارک و تعالی: «إنَّ الّذینَ آمَنُوا و  ...</text>
+            </navLabel>
+            <content src="cat1773sec1.xhtml#poem-49975" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x22" playOrder="26159100">
+          <navLabel>
+            <text>باب آدابهم فی الصّحبة</text>
+          </navLabel>
+          <content src="cat1790.xhtml" />
+          <navPoint id="navid3x1x22x1" playOrder="26159101">
+            <navLabel>
+              <text>بخش  ۱ - باب آدابهم فی الصّحبة : چون مهم‌ترین چیزها بدانستی که مرید را حق صحبت بود، ...</text>
+            </navLabel>
+            <content src="cat1790sec1.xhtml#poem-49976" />
+          </navPoint>
+          <navPoint id="navid3x1x22x2" playOrder="26159102">
+            <navLabel>
+              <text>بخش  ۲ - فصل : و به‌حقیقت بدان که آداب، اجتماع خصال خیر باشد و «م ...</text>
+            </navLabel>
+            <content src="cat1790sec1.xhtml#poem-49977" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x23" playOrder="52318203">
+          <navLabel>
+            <text>بابُ آدابِ الإقامة فی الصّحبة</text>
+          </navLabel>
+          <content src="cat1791.xhtml" />
+          <navPoint id="navid3x1x23x1" playOrder="52318204">
+            <navLabel>
+              <text>بخش  ۱ - بابُ آدابِ الإقامة فی الصّحبة : چون درویشی اقامت اختیار کند بدون سفر، شرط ادب وی آ ...</text>
+            </navLabel>
+            <content src="cat1791sec1.xhtml#poem-49978" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x24" playOrder="104636408">
+          <navLabel>
+            <text>بابُ الصّحبة فی السّفر و آدابه</text>
+          </navLabel>
+          <content src="cat1792.xhtml" />
+          <navPoint id="navid3x1x24x1" playOrder="104636409">
+            <navLabel>
+              <text>بخش  ۱ - بابُ الصّحبة فی السّفر و آدابه : چون درویشی سفر اختیار کند بدون اقامت، شرطِ ادب وی  ...</text>
+            </navLabel>
+            <content src="cat1792sec1.xhtml#poem-49979" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x25" playOrder="209272818">
+          <navLabel>
+            <text>باب آدابهم فی الأکل</text>
+          </navLabel>
+          <content src="cat1793.xhtml" />
+          <navPoint id="navid3x1x25x1" playOrder="209272819">
+            <navLabel>
+              <text>بخش  ۱ - باب آدابهم فی الأکل : بدان که آدمی را از أکل چاره نیست؛ که اقامت تألیف ط ...</text>
+            </navLabel>
+            <content src="cat1793sec1.xhtml#poem-49980" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x26" playOrder="418545638">
+          <navLabel>
+            <text>بابُ آدابِهم فی المَشْیِ</text>
+          </navLabel>
+          <content src="cat1794.xhtml" />
+          <navPoint id="navid3x1x26x1" playOrder="418545639">
+            <navLabel>
+              <text>بخش  ۱ - بابُ آدابِهم فی المَشْیِ : قوله، تعالی: «و عِبادُ الرَّحْمنِ الَّذینَ یَمْشُو ...</text>
+            </navLabel>
+            <content src="cat1794sec1.xhtml#poem-49981" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x27" playOrder="837091278">
+          <navLabel>
+            <text>بابُ نومِهم فی السّفر و الحضر</text>
+          </navLabel>
+          <content src="cat1795.xhtml" />
+          <navPoint id="navid3x1x27x1" playOrder="837091279">
+            <navLabel>
+              <text>بخش  ۱ - بابُ نومِهم فی السّفر و الحضر : بدان که مشایخ را رضی اللّه عنهم اندر این معنی اختل ...</text>
+            </navLabel>
+            <content src="cat1795sec1.xhtml#poem-49982" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x28" playOrder="1674182558">
+          <navLabel>
+            <text>باب آدابهم فی الکلام و السّکوت</text>
+          </navLabel>
+          <content src="cat1796.xhtml" />
+          <navPoint id="navid3x1x28x1" playOrder="1674182559">
+            <navLabel>
+              <text>بخش  ۱ - باب آدابهم فی الکلام و السّکوت : قوله، تعالی: «وَمَنْ أحْسَنُ قَوْلاً مِمَّنْ دَعا  ...</text>
+            </navLabel>
+            <content src="cat1796sec1.xhtml#poem-49983" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x29" playOrder="-946602178">
+          <navLabel>
+            <text>بابُ ادابهم فی السّؤالِ وترکه</text>
+          </navLabel>
+          <content src="cat1797.xhtml" />
+          <navPoint id="navid3x1x29x1" playOrder="-946602177">
+            <navLabel>
+              <text>بخش  ۱ - بابُ ادابهم فی السّؤالِ وترکه : قوله، عزّ و جلّ: «لایَسْألونَ النّاسَ إلحافاً (۲۷۳ ...</text>
+            </navLabel>
+            <content src="cat1797sec1.xhtml#poem-49984" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x30" playOrder="-1893204354">
+          <navLabel>
+            <text>باب آدابهم فی التّزویج و التّجرید</text>
+          </navLabel>
+          <content src="cat1798.xhtml" />
+          <navPoint id="navid3x1x30x1" playOrder="-1893204353">
+            <navLabel>
+              <text>بخش  ۱ - باب آدابهم فی التّزویج و التّجرید : قوله، تعالی: «هُنَّ لِباسٌ لَکُمْ و أنْتُم لِباسٌ  ...</text>
+            </navLabel>
+            <content src="cat1798sec1.xhtml#poem-49985" />
+          </navPoint>
+          <navPoint id="navid3x1x30x2" playOrder="-1893204352">
+            <navLabel>
+              <text>بخش  ۲ - کشفُ الحجاب العاشر فی بیانِ منطقهم و حدودِ ألفاظهم و حقائقٍ معانیهم</text>
+            </navLabel>
+            <content src="cat1798sec1.xhtml#poem-49986" />
+          </navPoint>
+          <navPoint id="navid3x1x30x3" playOrder="-1893204351">
+            <navLabel>
+              <text>بخش  ۳ - کشف الحجاب الحادی عشر فی السّماع و بیان انواعه</text>
+            </navLabel>
+            <content src="cat1798sec1.xhtml#poem-49987" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x31" playOrder="508558592">
+          <navLabel>
+            <text>بابُ سماعِ القرآن و ما یتعلّق به</text>
+          </navLabel>
+          <content src="cat1799.xhtml" />
+          <navPoint id="navid3x1x31x1" playOrder="508558593">
+            <navLabel>
+              <text>بخش  ۱ - بابُ سماعِ القرآن و ما یتعلّق به : اولی‌تر مسموعات مر دل را به فواید و سرّ را به زوای ...</text>
+            </navLabel>
+            <content src="cat1799sec1.xhtml#poem-49988" />
+          </navPoint>
+          <navPoint id="navid3x1x31x2" playOrder="508558594">
+            <navLabel>
+              <text>بخش  ۲ - فصل : وزُرارة بن ابی أوفی از کبار صحابه بود رضی اللّه عن ...</text>
+            </navLabel>
+            <content src="cat1799sec1.xhtml#poem-49989" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x32" playOrder="1017117187">
+          <navLabel>
+            <text>بابُ سماعِ الشّعر و ما یتعلّق به</text>
+          </navLabel>
+          <content src="cat1800.xhtml" />
+          <navPoint id="navid3x1x32x1" playOrder="1017117188">
+            <navLabel>
+              <text>بخش  ۱ - بابُ سماعِ الشّعر و ما یتعلّق به : در جمله شنیدن شعر مباح است، و پیغامبر صلّی اللّه ع ...</text>
+            </navLabel>
+            <content src="cat1800sec1.xhtml#poem-49990" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x33" playOrder="2034234376">
+          <navLabel>
+            <text>بابُ سماعِ الاصوات و الالحان</text>
+          </navLabel>
+          <content src="cat1801.xhtml" />
+          <navPoint id="navid3x1x33x1" playOrder="2034234377">
+            <navLabel>
+              <text>بخش  ۱ - بابُ سماعِ الاصوات و الالحان : قوله، علیه السّلام: «زَیِّنُوا أصواتَکُم بِالقُران ...</text>
+            </navLabel>
+            <content src="cat1801sec1.xhtml#poem-49991" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x34" playOrder="-226498542">
+          <navLabel>
+            <text>بابُ أحکامِ السَّماعِ</text>
+          </navLabel>
+          <content src="cat1802.xhtml" />
+          <navPoint id="navid3x1x34x1" playOrder="-226498541">
+            <navLabel>
+              <text>بخش  ۱ - بابُ أحکامِ السَّماعِ : بدان که سماع را اندر طبایع حکم‌های مختلف است، همچن ...</text>
+            </navLabel>
+            <content src="cat1802sec1.xhtml#poem-49992" />
+          </navPoint>
+          <navPoint id="navid3x1x34x2" playOrder="-226498540">
+            <navLabel>
+              <text>بخش  ۲ - فصل : و مشایخ را رضی اللّه عنهم اندر این معنی کلمات لطیف ...</text>
+            </navLabel>
+            <content src="cat1802sec1.xhtml#poem-49993" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x35" playOrder="-452997081">
+          <navLabel>
+            <text>بابُ اختلافِهم فی السماع</text>
+          </navLabel>
+          <content src="cat1803.xhtml" />
+          <navPoint id="navid3x1x35x1" playOrder="-452997080">
+            <navLabel>
+              <text>بخش  ۱ - بابُ اختلافِهم فی السماع : اختلاف است میان مشایخ و محققان اندر سماع.</text>
+            </navLabel>
+            <content src="cat1803sec1.xhtml#poem-49994" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x36" playOrder="-905994160">
+          <navLabel>
+            <text>باب مراتبهم فی السّماع</text>
+          </navLabel>
+          <content src="cat1804.xhtml" />
+          <navPoint id="navid3x1x36x1" playOrder="-905994159">
+            <navLabel>
+              <text>بخش  ۱ - باب مراتبهم فی السّماع : بدان که هریکی را از ایشان در سماع مرتبتی است و ذوق ...</text>
+            </navLabel>
+            <content src="cat1804sec1.xhtml#poem-49995" />
+          </navPoint>
+          <navPoint id="navid3x1x36x2" playOrder="-905994158">
+            <navLabel>
+              <text>بخش  ۲ - فصل : بدان که سماع وارد حق است و تزکیت جد از هزل و لهو ا ...</text>
+            </navLabel>
+            <content src="cat1804sec1.xhtml#poem-49996" />
+          </navPoint>
+          <navPoint id="navid3x1x36x3" playOrder="-905994157">
+            <navLabel>
+              <text>بخش  ۳ - فصل : گروهی از مشایخ خواندن قرآن به الحان و شنیدن قصاید  ...</text>
+            </navLabel>
+            <content src="cat1804sec1.xhtml#poem-49997" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x37" playOrder="-1811988316">
+          <navLabel>
+            <text>باب الوجد و الوجود و التّواجد ومراتبه</text>
+          </navLabel>
+          <content src="cat1805.xhtml" />
+          <navPoint id="navid3x1x37x1" playOrder="-1811988315">
+            <navLabel>
+              <text>بخش  ۱ - باب الوجد و الوجود و التّواجد ومراتبه : بدان که وجد ووجود مصدراند: یکی به معنی اندوه، و دی ...</text>
+            </navLabel>
+            <content src="cat1805sec1.xhtml#poem-49998" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x38" playOrder="670990666">
+          <navLabel>
+            <text>باب الرّقص</text>
+          </navLabel>
+          <content src="cat1806.xhtml" />
+          <navPoint id="navid3x1x38x1" playOrder="670990667">
+            <navLabel>
+              <text>بخش  ۱ - باب الرّقص : بدان که اندر شریعت و طریقت مر رقص را هیچ اصلی نیست ...</text>
+            </navLabel>
+            <content src="cat1806sec1.xhtml#poem-49999" />
+          </navPoint>
+          <navPoint id="navid3x1x38x2" playOrder="670990668">
+            <navLabel>
+              <text>بخش  ۲ - النّظرُ فی الاحداث : در جمله نظاره کردن اندر احداث و صحبت با ایشان محظو ...</text>
+            </navLabel>
+            <content src="cat1806sec1.xhtml#poem-50000" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x39" playOrder="1341981335">
+          <navLabel>
+            <text>باب الخرق</text>
+          </navLabel>
+          <content src="cat1807.xhtml" />
+          <navPoint id="navid3x1x39x1" playOrder="1341981336">
+            <navLabel>
+              <text>بخش  ۱ - باب الخرق : بدان که خرقه کردن جامه اندر میان این طایفه معتاد ا ...</text>
+            </navLabel>
+            <content src="cat1807sec1.xhtml#poem-50001" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navid3x1x40" playOrder="-1611004624">
+          <navLabel>
+            <text>باب آداب السمّاع</text>
+          </navLabel>
+          <content src="cat1808.xhtml" />
+          <navPoint id="navid3x1x40x1" playOrder="-1611004623">
+            <navLabel>
+              <text>بخش  ۱ - باب آداب السمّاع : بدان که شرط ادب سماع آن است که تانیاید نکنی و مر آ ...</text>
+            </navLabel>
+            <content src="cat1808sec1.xhtml#poem-50002" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

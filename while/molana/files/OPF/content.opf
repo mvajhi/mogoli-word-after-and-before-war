@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <opf:metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta name="cover" content="img1" xmlns="" />
+    <dc:identifier id="BookId">urn:uuid:c81c4d56-81d2-4757-8f47-19934ccd9c8d</dc:identifier>
+    <dc:title>مولانا</dc:title>
+    <dc:language>fa</dc:language>
+    <dc:creator opf:role="aut">مولانا</dc:creator>
+  </opf:metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="id1" href="fonts/irsans.ttf" media-type="application/x-font-ttf" />
+    <item id="stylesheet1" href="style.css" media-type="text/css" />
+    <item id="img1" href="images/cover.png" media-type="image/png" />
+    <item id="html1" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <item id="html2" href="promo.xhtml" media-type="application/xhtml+xml" />
+    <item id="html3" href="bio.xhtml" media-type="application/xhtml+xml" />
+    <item id="html4" href="cat99.xhtml" media-type="application/xhtml+xml" />
+    <item id="html5" href="cat99sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html6" href="cat99sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html7" href="cat99sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html8" href="cat99sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html9" href="cat99sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html10" href="cat99sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html11" href="cat99sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html12" href="cat99sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html13" href="cat99sec9.xhtml" media-type="application/xhtml+xml" />
+    <item id="html14" href="cat99sec10.xhtml" media-type="application/xhtml+xml" />
+    <item id="html15" href="cat99sec11.xhtml" media-type="application/xhtml+xml" />
+    <item id="html16" href="cat99sec12.xhtml" media-type="application/xhtml+xml" />
+    <item id="html17" href="cat99sec13.xhtml" media-type="application/xhtml+xml" />
+    <item id="html18" href="cat99sec14.xhtml" media-type="application/xhtml+xml" />
+    <item id="html19" href="cat99sec15.xhtml" media-type="application/xhtml+xml" />
+    <item id="html20" href="cat99sec16.xhtml" media-type="application/xhtml+xml" />
+    <item id="html21" href="cat99sec17.xhtml" media-type="application/xhtml+xml" />
+    <item id="html22" href="cat99sec18.xhtml" media-type="application/xhtml+xml" />
+    <item id="html23" href="cat99sec19.xhtml" media-type="application/xhtml+xml" />
+    <item id="html24" href="cat99sec20.xhtml" media-type="application/xhtml+xml" />
+    <item id="html25" href="cat99sec21.xhtml" media-type="application/xhtml+xml" />
+    <item id="html26" href="cat99sec22.xhtml" media-type="application/xhtml+xml" />
+    <item id="html27" href="cat99sec23.xhtml" media-type="application/xhtml+xml" />
+    <item id="html28" href="cat99sec24.xhtml" media-type="application/xhtml+xml" />
+    <item id="html29" href="cat99sec25.xhtml" media-type="application/xhtml+xml" />
+    <item id="html30" href="cat99sec26.xhtml" media-type="application/xhtml+xml" />
+    <item id="html31" href="cat99sec27.xhtml" media-type="application/xhtml+xml" />
+    <item id="html32" href="cat99sec28.xhtml" media-type="application/xhtml+xml" />
+    <item id="html33" href="cat99sec29.xhtml" media-type="application/xhtml+xml" />
+    <item id="html34" href="cat99sec30.xhtml" media-type="application/xhtml+xml" />
+    <item id="html35" href="cat99sec31.xhtml" media-type="application/xhtml+xml" />
+    <item id="html36" href="cat99sec32.xhtml" media-type="application/xhtml+xml" />
+    <item id="html37" href="cat99sec33.xhtml" media-type="application/xhtml+xml" />
+    <item id="html38" href="cat99sec34.xhtml" media-type="application/xhtml+xml" />
+    <item id="html39" href="cat99sec35.xhtml" media-type="application/xhtml+xml" />
+    <item id="html40" href="cat99sec36.xhtml" media-type="application/xhtml+xml" />
+    <item id="html41" href="cat99sec37.xhtml" media-type="application/xhtml+xml" />
+    <item id="html42" href="cat99sec38.xhtml" media-type="application/xhtml+xml" />
+    <item id="html43" href="cat99sec39.xhtml" media-type="application/xhtml+xml" />
+    <item id="html44" href="cat99sec40.xhtml" media-type="application/xhtml+xml" />
+    <item id="html45" href="cat99sec41.xhtml" media-type="application/xhtml+xml" />
+    <item id="html46" href="cat99sec42.xhtml" media-type="application/xhtml+xml" />
+    <item id="html47" href="cat99sec43.xhtml" media-type="application/xhtml+xml" />
+    <item id="html48" href="cat99sec44.xhtml" media-type="application/xhtml+xml" />
+    <item id="html49" href="cat99sec45.xhtml" media-type="application/xhtml+xml" />
+    <item id="html50" href="cat99sec46.xhtml" media-type="application/xhtml+xml" />
+    <item id="html51" href="cat99sec47.xhtml" media-type="application/xhtml+xml" />
+    <item id="html52" href="cat99sec48.xhtml" media-type="application/xhtml+xml" />
+    <item id="html53" href="cat99sec49.xhtml" media-type="application/xhtml+xml" />
+    <item id="html54" href="cat99sec50.xhtml" media-type="application/xhtml+xml" />
+    <item id="html55" href="cat99sec51.xhtml" media-type="application/xhtml+xml" />
+    <item id="html56" href="cat99sec52.xhtml" media-type="application/xhtml+xml" />
+    <item id="html57" href="cat99sec53.xhtml" media-type="application/xhtml+xml" />
+    <item id="html58" href="cat99sec54.xhtml" media-type="application/xhtml+xml" />
+    <item id="html59" href="cat99sec55.xhtml" media-type="application/xhtml+xml" />
+    <item id="html60" href="cat99sec56.xhtml" media-type="application/xhtml+xml" />
+    <item id="html61" href="cat99sec57.xhtml" media-type="application/xhtml+xml" />
+    <item id="html62" href="cat99sec58.xhtml" media-type="application/xhtml+xml" />
+    <item id="html63" href="cat99sec59.xhtml" media-type="application/xhtml+xml" />
+    <item id="html64" href="cat99sec60.xhtml" media-type="application/xhtml+xml" />
+    <item id="html65" href="cat99sec61.xhtml" media-type="application/xhtml+xml" />
+    <item id="html66" href="cat99sec62.xhtml" media-type="application/xhtml+xml" />
+    <item id="html67" href="cat99sec63.xhtml" media-type="application/xhtml+xml" />
+    <item id="html68" href="cat99sec64.xhtml" media-type="application/xhtml+xml" />
+    <item id="html69" href="cat99sec65.xhtml" media-type="application/xhtml+xml" />
+    <item id="html70" href="cat99sec66.xhtml" media-type="application/xhtml+xml" />
+    <item id="html71" href="cat99sec67.xhtml" media-type="application/xhtml+xml" />
+    <item id="html72" href="cat99sec68.xhtml" media-type="application/xhtml+xml" />
+    <item id="html73" href="cat99sec69.xhtml" media-type="application/xhtml+xml" />
+    <item id="html74" href="cat100.xhtml" media-type="application/xhtml+xml" />
+    <item id="html75" href="cat100sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html76" href="cat101.xhtml" media-type="application/xhtml+xml" />
+    <item id="html77" href="cat101sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html78" href="cat101sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html79" href="cat101sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html80" href="cat101sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html81" href="cat102.xhtml" media-type="application/xhtml+xml" />
+    <item id="html82" href="cat102sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html83" href="cat102sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html84" href="cat102sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html85" href="cat102sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html86" href="cat102sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html87" href="cat102sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html88" href="cat102sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html89" href="cat102sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html90" href="cat98.xhtml" media-type="application/xhtml+xml" />
+    <item id="html91" href="cat104.xhtml" media-type="application/xhtml+xml" />
+    <item id="html92" href="cat104sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html93" href="cat104sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html94" href="cat104sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html95" href="cat104sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html96" href="cat104sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html97" href="cat104sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html98" href="cat104sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html99" href="cat104sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html100" href="cat105.xhtml" media-type="application/xhtml+xml" />
+    <item id="html101" href="cat105sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html102" href="cat105sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html103" href="cat105sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html104" href="cat105sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html105" href="cat105sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html106" href="cat105sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html107" href="cat105sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html108" href="cat105sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html109" href="cat106.xhtml" media-type="application/xhtml+xml" />
+    <item id="html110" href="cat106sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html111" href="cat106sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html112" href="cat106sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html113" href="cat106sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html114" href="cat106sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html115" href="cat106sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html116" href="cat106sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html117" href="cat106sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html118" href="cat106sec9.xhtml" media-type="application/xhtml+xml" />
+    <item id="html119" href="cat106sec10.xhtml" media-type="application/xhtml+xml" />
+    <item id="html120" href="cat107.xhtml" media-type="application/xhtml+xml" />
+    <item id="html121" href="cat107sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html122" href="cat107sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html123" href="cat107sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html124" href="cat107sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html125" href="cat107sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html126" href="cat107sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html127" href="cat107sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html128" href="cat107sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html129" href="cat108.xhtml" media-type="application/xhtml+xml" />
+    <item id="html130" href="cat108sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html131" href="cat108sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html132" href="cat108sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html133" href="cat108sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html134" href="cat108sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html135" href="cat108sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html136" href="cat108sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html137" href="cat108sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html138" href="cat108sec9.xhtml" media-type="application/xhtml+xml" />
+    <item id="html139" href="cat109.xhtml" media-type="application/xhtml+xml" />
+    <item id="html140" href="cat109sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html141" href="cat109sec2.xhtml" media-type="application/xhtml+xml" />
+    <item id="html142" href="cat109sec3.xhtml" media-type="application/xhtml+xml" />
+    <item id="html143" href="cat109sec4.xhtml" media-type="application/xhtml+xml" />
+    <item id="html144" href="cat109sec5.xhtml" media-type="application/xhtml+xml" />
+    <item id="html145" href="cat109sec6.xhtml" media-type="application/xhtml+xml" />
+    <item id="html146" href="cat109sec7.xhtml" media-type="application/xhtml+xml" />
+    <item id="html147" href="cat109sec8.xhtml" media-type="application/xhtml+xml" />
+    <item id="html148" href="cat109sec9.xhtml" media-type="application/xhtml+xml" />
+    <item id="html149" href="cat109sec10.xhtml" media-type="application/xhtml+xml" />
+    <item id="html150" href="cat103.xhtml" media-type="application/xhtml+xml" />
+    <item id="html151" href="cat1873.xhtml" media-type="application/xhtml+xml" />
+    <item id="html152" href="cat1873sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html153" href="cat1875.xhtml" media-type="application/xhtml+xml" />
+    <item id="html154" href="cat1875sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html155" href="cat1876.xhtml" media-type="application/xhtml+xml" />
+    <item id="html156" href="cat1876sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html157" href="cat1877.xhtml" media-type="application/xhtml+xml" />
+    <item id="html158" href="cat1877sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html159" href="cat1878.xhtml" media-type="application/xhtml+xml" />
+    <item id="html160" href="cat1878sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html161" href="cat1879.xhtml" media-type="application/xhtml+xml" />
+    <item id="html162" href="cat1879sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html163" href="cat1880.xhtml" media-type="application/xhtml+xml" />
+    <item id="html164" href="cat1880sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html165" href="cat1881.xhtml" media-type="application/xhtml+xml" />
+    <item id="html166" href="cat1881sec1.xhtml" media-type="application/xhtml+xml" />
+    <item id="html167" href="cat1874.xhtml" media-type="application/xhtml+xml" />
+    <item id="html168" href="cat97.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html1" />
+    <itemref idref="html2" />
+    <itemref idref="html3" />
+    <itemref idref="html4" />
+    <itemref idref="html5" />
+    <itemref idref="html6" />
+    <itemref idref="html7" />
+    <itemref idref="html8" />
+    <itemref idref="html9" />
+    <itemref idref="html10" />
+    <itemref idref="html11" />
+    <itemref idref="html12" />
+    <itemref idref="html13" />
+    <itemref idref="html14" />
+    <itemref idref="html15" />
+    <itemref idref="html16" />
+    <itemref idref="html17" />
+    <itemref idref="html18" />
+    <itemref idref="html19" />
+    <itemref idref="html20" />
+    <itemref idref="html21" />
+    <itemref idref="html22" />
+    <itemref idref="html23" />
+    <itemref idref="html24" />
+    <itemref idref="html25" />
+    <itemref idref="html26" />
+    <itemref idref="html27" />
+    <itemref idref="html28" />
+    <itemref idref="html29" />
+    <itemref idref="html30" />
+    <itemref idref="html31" />
+    <itemref idref="html32" />
+    <itemref idref="html33" />
+    <itemref idref="html34" />
+    <itemref idref="html35" />
+    <itemref idref="html36" />
+    <itemref idref="html37" />
+    <itemref idref="html38" />
+    <itemref idref="html39" />
+    <itemref idref="html40" />
+    <itemref idref="html41" />
+    <itemref idref="html42" />
+    <itemref idref="html43" />
+    <itemref idref="html44" />
+    <itemref idref="html45" />
+    <itemref idref="html46" />
+    <itemref idref="html47" />
+    <itemref idref="html48" />
+    <itemref idref="html49" />
+    <itemref idref="html50" />
+    <itemref idref="html51" />
+    <itemref idref="html52" />
+    <itemref idref="html53" />
+    <itemref idref="html54" />
+    <itemref idref="html55" />
+    <itemref idref="html56" />
+    <itemref idref="html57" />
+    <itemref idref="html58" />
+    <itemref idref="html59" />
+    <itemref idref="html60" />
+    <itemref idref="html61" />
+    <itemref idref="html62" />
+    <itemref idref="html63" />
+    <itemref idref="html64" />
+    <itemref idref="html65" />
+    <itemref idref="html66" />
+    <itemref idref="html67" />
+    <itemref idref="html68" />
+    <itemref idref="html69" />
+    <itemref idref="html70" />
+    <itemref idref="html71" />
+    <itemref idref="html72" />
+    <itemref idref="html73" />
+    <itemref idref="html74" />
+    <itemref idref="html75" />
+    <itemref idref="html76" />
+    <itemref idref="html77" />
+    <itemref idref="html78" />
+    <itemref idref="html79" />
+    <itemref idref="html80" />
+    <itemref idref="html81" />
+    <itemref idref="html82" />
+    <itemref idref="html83" />
+    <itemref idref="html84" />
+    <itemref idref="html85" />
+    <itemref idref="html86" />
+    <itemref idref="html87" />
+    <itemref idref="html88" />
+    <itemref idref="html89" />
+    <itemref idref="html90" />
+    <itemref idref="html91" />
+    <itemref idref="html92" />
+    <itemref idref="html93" />
+    <itemref idref="html94" />
+    <itemref idref="html95" />
+    <itemref idref="html96" />
+    <itemref idref="html97" />
+    <itemref idref="html98" />
+    <itemref idref="html99" />
+    <itemref idref="html100" />
+    <itemref idref="html101" />
+    <itemref idref="html102" />
+    <itemref idref="html103" />
+    <itemref idref="html104" />
+    <itemref idref="html105" />
+    <itemref idref="html106" />
+    <itemref idref="html107" />
+    <itemref idref="html108" />
+    <itemref idref="html109" />
+    <itemref idref="html110" />
+    <itemref idref="html111" />
+    <itemref idref="html112" />
+    <itemref idref="html113" />
+    <itemref idref="html114" />
+    <itemref idref="html115" />
+    <itemref idref="html116" />
+    <itemref idref="html117" />
+    <itemref idref="html118" />
+    <itemref idref="html119" />
+    <itemref idref="html120" />
+    <itemref idref="html121" />
+    <itemref idref="html122" />
+    <itemref idref="html123" />
+    <itemref idref="html124" />
+    <itemref idref="html125" />
+    <itemref idref="html126" />
+    <itemref idref="html127" />
+    <itemref idref="html128" />
+    <itemref idref="html129" />
+    <itemref idref="html130" />
+    <itemref idref="html131" />
+    <itemref idref="html132" />
+    <itemref idref="html133" />
+    <itemref idref="html134" />
+    <itemref idref="html135" />
+    <itemref idref="html136" />
+    <itemref idref="html137" />
+    <itemref idref="html138" />
+    <itemref idref="html139" />
+    <itemref idref="html140" />
+    <itemref idref="html141" />
+    <itemref idref="html142" />
+    <itemref idref="html143" />
+    <itemref idref="html144" />
+    <itemref idref="html145" />
+    <itemref idref="html146" />
+    <itemref idref="html147" />
+    <itemref idref="html148" />
+    <itemref idref="html149" />
+    <itemref idref="html150" />
+    <itemref idref="html151" />
+    <itemref idref="html152" />
+    <itemref idref="html153" />
+    <itemref idref="html154" />
+    <itemref idref="html155" />
+    <itemref idref="html156" />
+    <itemref idref="html157" />
+    <itemref idref="html158" />
+    <itemref idref="html159" />
+    <itemref idref="html160" />
+    <itemref idref="html161" />
+    <itemref idref="html162" />
+    <itemref idref="html163" />
+    <itemref idref="html164" />
+    <itemref idref="html165" />
+    <itemref idref="html166" />
+    <itemref idref="html167" />
+    <itemref idref="html168" />
+  </spine>
+  <guide />
+</package>
