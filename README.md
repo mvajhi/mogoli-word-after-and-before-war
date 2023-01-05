@@ -1,4 +1,4 @@
-﻿![دانشگاه تهران - ویکی‌پدیا، دانشنامهٔ آزاد](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png)![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.002.png)تاثیر زبان مغولی بر زبان فارسی
+﻿![دانشگاه تهران - ویکی‌پدیا، دانشنامهٔ آزاد]([Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png?raw=true))![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.002.png)تاثیر زبان مغولی بر زبان فارسی
 
 استاد: سرکار خانم لیلا کرمی
 
