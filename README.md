@@ -1,4 +1,4 @@
-﻿![دانشگاه تهران - ویکی‌پدیا، دانشنامهٔ آزاد]([Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png?raw=true))![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.002.png)تاثیر زبان مغولی بر زبان فارسی
+﻿![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.001.png)![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.002.png)تاثیر زبان مغولی بر زبان فارسی
 
 استاد: سرکار خانم لیلا کرمی
 
@@ -47,7 +47,7 @@
 
 **پیدا کردن فایل کتب و نوشته های شاعران**
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.003.png)**	سایت منبع باز (Open source) [گنجور1](https://ganjoor.net/) که به عنوان مرجع انتخاب شده وارد می شویم. در بخش [کتابخانه گنجور](http://epub.ganjoor.net/) می توانیم کتاب ها را با فرمت epub دانلود کنیم (تصویر 1).
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.003.png)**	سایت منبع باز (Open source) [گنجور1](https://ganjoor.net/) که به عنوان مرجع انتخاب شده وارد می شویم. در بخش [کتابخانه گنجور](http://epub.ganjoor.net/) می توانیم کتاب ها را با فرمت epub دانلود کنیم (تصویر 1).
 
 تصویر 1-نمایی از سایت کتابخانه ی گنجور
 
@@ -56,7 +56,7 @@
 
 سپس فایل را از حالت کتاب الکترونیک (epub) خارج می کنیم.
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.004.png)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.004.png)
 
 تصویر2 – نمای متحوای باز شده کتاب نمونه (کیکاووس) با فرمت epub
 
@@ -71,7 +71,7 @@
 |cat \* > your\_address/file\_name.txt|
 | - |
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.005.png)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.005.png)
 
 تصویر3 – نمای تبدیل فایل های txt به یک فایل txt
 
@@ -83,13 +83,13 @@
 
 کتابخانه های hazm و nltk به ترتیب برای پردازش زبان های فارسی و انگلیسی کاربرد دارند.
 
-![NLP vs. NLU vs. NLG - Unterschiede und Funktionen - datasolut GmbH](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.006.png)پردازش زبان طبیعی (Natural Language Processing) که به اختصار NLP نیز نامیده می‌شود، روشی است برای درک زبان انسانی برای رایانه؛ این علم یکی شاخه‌های دانش هوش مصنوعی محسوب می‌شود و به رایانه‌ها کمک می‌کند تا با آگاهی از چگونگی استفاده بشر از زبان، زبان انسانی را درک کند. پردازش زبان طبیعی یک دانش پیچیده و دشوار است. این شاخه از هوش مصنوعی خود به دو شاخه دیگر یعنی NLG و NLU تقسیم می شوند. Natural Language Understanding یا به اختصار NLU به فارسی درک زبان طبیعی بر درک خواندن ماشینی از طریق قواعد دستور زبانی و موضوع تمرکز دارد و ماشین‌ها را قادر می‌سازد تا معنای مورد نظر یک جمله را تعیین کنند. Natural Language Generation یا به اختصار NLG به فارسی تولید زبان طبیعی بر تولید متن یا ساخت متن به زبان انگلیسی یا زبان‌های دیگر توسط یک ماشین و بر اساس یک مجموعه داده معین تمرکز می‌کند (تصویر 4).
+![NLP vs. NLU vs. NLG - Unterschiede und Funktionen - datasolut GmbH](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.006.png)پردازش زبان طبیعی (Natural Language Processing) که به اختصار NLP نیز نامیده می‌شود، روشی است برای درک زبان انسانی برای رایانه؛ این علم یکی شاخه‌های دانش هوش مصنوعی محسوب می‌شود و به رایانه‌ها کمک می‌کند تا با آگاهی از چگونگی استفاده بشر از زبان، زبان انسانی را درک کند. پردازش زبان طبیعی یک دانش پیچیده و دشوار است. این شاخه از هوش مصنوعی خود به دو شاخه دیگر یعنی NLG و NLU تقسیم می شوند. Natural Language Understanding یا به اختصار NLU به فارسی درک زبان طبیعی بر درک خواندن ماشینی از طریق قواعد دستور زبانی و موضوع تمرکز دارد و ماشین‌ها را قادر می‌سازد تا معنای مورد نظر یک جمله را تعیین کنند. Natural Language Generation یا به اختصار NLG به فارسی تولید زبان طبیعی بر تولید متن یا ساخت متن به زبان انگلیسی یا زبان‌های دیگر توسط یک ماشین و بر اساس یک مجموعه داده معین تمرکز می‌کند (تصویر 4).
 
 تصویر4 – ارتباط بین NLP، NLG و NLU با یکدیگر
 
 در جدول زیر کتابخانه های معروف NLP آورده شده اند (جدول 1).
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.007.jpeg)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.007.jpeg)
 
 جدول 1 – جدول مقایسه کتابخانه های مشهور NLP
 
@@ -114,7 +114,7 @@
 |<p>>>> normalizer = Normalizer()</p><p>>>> normalizer.normalize ( 'اصلاح نویسه ها و استفاده از نیم فاصله پردازش را آسان می کند' )</p><p>'اصلاح نویسه ها و استفاده از نیم فاصله پردازش را آسان می کند'</p><p>>>> sent\_tokenize ( 'ما هم برای وصل کردن آمدیم! ولی برای پردازش، جدا بهتر نیست؟' )</p><p>[ 'ما هم برای وصل کردن آمدیم!' , 'ولی برای پردازش، جدا بهتر نیست؟' ]</p><p>>>> word\_tokenize ( 'ولی برای پردازش، جدا بهتر نیست؟' )</p><p>[ 'ولی', 'برای', 'پردازش'، '،'، 'جدا', 'بهتر', 'نیست', '؟' ]</p><p>>>> stemmer = Stemmer()</p><p>>>> stemmer.stem ( 'کتاب ها' )</p><p>'کتاب'</p><p>>>> lemmatizer = Lemmatizer()</p><p>>>> lemmatizer.lemmatize ( 'می روم' )</p><p>'رفت#رو'</p><p>>>> tagger = POSTagger ( model = 'resources/postagger.model' )</p><p>>>> tagger.tag ( word\_tokenize( 'ما بسیار کتاب می‌خوانیم' ))</p><p>[ ( 'ما' , 'PRO' ), ( 'بسیار' , 'ADV' ), ( 'کتاب' , 'N' ), ( 'می خوانیم' , 'V' ) ]</p><p>>>> chunker = Chunker( model= 'resources/chunker.model' )</p><p>>>> tagged = tagger.tag ( word\_tokenize( 'کتاب خواندن را دوست داریم' ))</p><p>>>> tree2brackets( chunker.parse (tagged))</p><p>'[کتاب خواندن NP] [را POSTP] [دوست داریم VP]'</p><p>>>> parser = DependencyParser (tagger = tagger, lemmatizer = lemmatizer )</p>|
 | - |
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.008.png)همچنین این کتابخانه حتی توانایی رسم درخت تحلیل نحوی جملات را دارد. به عنوان مثال دستور زیر درخت تحلیل نحوی جمله " زنگ‌ها برای که به صدا درمی‌آید؟" را رسم می کند (تصویر 5)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.008.png)همچنین این کتابخانه حتی توانایی رسم درخت تحلیل نحوی جملات را دارد. به عنوان مثال دستور زیر درخت تحلیل نحوی جمله " زنگ‌ها برای که به صدا درمی‌آید؟" را رسم می کند (تصویر 5)
 
 |<p>>>> parser.parse (  word\_tokenize( 'زنگ‌ها برای که به صدا درمی‌آید؟' ))</p><p><DependencyGraph with 8 nodes></p>|
 | - |
@@ -124,7 +124,7 @@
 
 کتابخانه wordcloud\_fa برای تولید ابر کلمات در زبان فارسی کاربرد دارد. ابر کلمات به تصویری می گویند که در آن لغات متنی به نمایش در می آید به صورتی که در آن کلمه ای که بزرگ تر است بیشتر تکرار شده اند. در تصویر زیر می توانید ابر کلمات مجموعه آثار مولانا مشاهده کنید (تصویر 6).
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.009.png)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.009.png)
 
 تصویر 6 – ابر کلمات مجموعه آثار مولانا
 
@@ -302,7 +302,7 @@ class WordCloudFa(WordCloud):
 
 ` `دو خروجی CSV هر ادیب که شامل "همه کلمات مغولی" و "همه ی کلمات" می شود را باهم ادغام کرده و به صورت یک فایل اکسل در می آوریم که برای تحلیل آماده شوند. (جدول 3)
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.010.png)
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.010.png)
 
 جدول 3 – نمایی از ادغام دو فایل خروجی حاصل از کتب مولانا که به صورت یک جدول اکسل درآمده است
 
@@ -332,7 +332,7 @@ class WordCloudFa(WordCloud):
 
 و تعجبی ندارد که در اثر او تعداد انگشت شماری از کلمات مغولی یافت میشود ، با این حال نگاه کوچکی به این کلمات در غالب یک تصویر می اندازیم.
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.011.png)([کشف المحجوب](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/hajviri/mogoli.csv))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.011.png)([کشف المحجوب](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/hajviri/mogoli.csv))
 
 احتمالا در نگاه اول این سوال مانند ما برایتان ایجاد شده است که این کلمات شباهتی به کلمات مغولی ندارند! و باید در پاسخ به شما بگوییم که حق با شماست ، زیرا برخی از واژگان مغولی با شباهت به واژگان فارسی اما در معنایی متفاوت وجود دارند که نمیتوانیم از آن ها صرف نظر کنیم پس اگر در ادامه باز هم از این قشر کلمات دیدید تعجب نکنید. 
 
@@ -340,7 +340,7 @@ class WordCloudFa(WordCloud):
 
 وی نصیحت نامه مشهور به قابوسنامه را در سال 475 هجری به اتمام رساند و در این اثر تعداد واژگان بسیار کم است.
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.012.png)([قابوسنامه](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/keykavos/mogoli.csv))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.012.png)([قابوسنامه](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/keykavos/mogoli.csv))
 
 با توجه به دو نمونه دیده شده و در نظر گرفتن این موضوع که تنها این کلمات اندک از مجموعه 500 واژه مغولی جمع آوری شده توسط ما در این آثار یافت شده اند میتوان نتیجه گرفت که قبل از حمله مغول فارسی زبانان با واژگان مغولی آشنایی نداشته و از آنها استفاده نمی کردند.
 
@@ -359,16 +359,16 @@ class WordCloudFa(WordCloud):
 
 در هر کدام از این دو آثار حدود 40 کلمه مغلولی با تکرار تقریبا 400 بار بکار رفته است ، که در مقایسه با آثار هجویری و کیکاووس این ارقام معنادار میشوند.
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.013.png)([مثنوی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/while/molana/book/masnavi/log.csv))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.013.png)([مثنوی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/while/molana/book/masnavi/log.csv))
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.014.png)([دیوان شمس]( ))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.014.png)([دیوان شمس]( ))
 
 کتب فیه ما فیه و مجالس سبعه آثاری هستند که به قلم شخص مولوی نوشته نشده اند و زمان تالیف این دو نیز به پس از وفات وی یعنی سال 672 هجری باز میگردد . این دو برخلاف آثار قبل دارای کلمات مغولی بسیار اندکی هستند که تعداد تکرارشان مشابه آثار هجویری و کیکاووس میباشد.
 
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.015.png)([فیه ما فیه](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/while/molana/book/fi_ma_fi/log.csv))![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.016.png)([مجالس سبعه]( ))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.015.png)([فیه ما فیه](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/while/molana/book/fi_ma_fi/log.csv))![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.016.png)([مجالس سبعه]( ))
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.017.png)([کل آثار](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/molana/mogoli))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.017.png)([کل آثار](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/molana/mogoli))
 
 حال با دانستن مطالب فوق میتوانیم حداقل درباره شخص مولوی این را بگوییم که قرار گرفتن او در این دوره زمانی بر واژگانی که وارد نوشته هایش میشوند تاثیر بسزایی داشته است. هرچند که این راهم نباید نادیده گرفت که حجم کتبی که که در این دو قسمت تا به اینجا مورد بررسی قرار گرفته است بسیار متفاوت بوده و دارای شرایط یکسانی نیستند.
 
@@ -390,7 +390,7 @@ class WordCloudFa(WordCloud):
 
 اما در آثار او اثری از کثرت تنوع و تکرار کلمات نیست .
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.018.png)([آثار زاکانی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/zakani/mogoli.csv))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.018.png)([آثار زاکانی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/zakani/mogoli.csv))
 
 بدون توضیحی بیشتر سراغ آثار بعدی میرویم.
 
@@ -398,7 +398,7 @@ class WordCloudFa(WordCloud):
 
 وی نیز حدود 120 سال پس از حمله مغول ها بدنیا آمده است و مانند زاکانی در آثارش از کلمات بیگانه زیادی استفاده نکرده است.
 
-![](Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.019.png)([آثار جامی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/jami/mogol.csv))
+![](image/Aspose.Words.d07596df-3fe5-4bfe-9acd-838bfa816e38.019.png)([آثار جامی](https://github.com/mvajhi/mogoli-word-after-and-before-war/blob/master/finall%20output/jami/mogol.csv))
 
 در این دوران تعداد واژگان مغولی نسبت به دوران حمله مغول ها کمتر شده است ولی نسبت به دوران قبل از حمله مغول تا حدودی بیشتر است.
 
